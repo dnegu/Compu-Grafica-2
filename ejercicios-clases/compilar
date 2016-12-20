@@ -1,0 +1,1 @@
+$ g++ gl.cpp -o gl -lGL -lGLU -lglut
