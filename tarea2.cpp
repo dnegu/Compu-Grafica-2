@@ -1,3 +1,8 @@
+/*
+Nombre: David Rolando Neyra Gutierrez
+Curso: Computacion Grafica
+Escuela: Ciencia de la Computacion
+*/
 #include <GL/glut.h>
 
 GLfloat anguloCuboX = 0.0f;
